@@ -1,0 +1,33 @@
+.todoitem-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 5px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+.todoitem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  cursor: pointer;
+}
+.todoitem p {
+  margin: 0;
+  padding-left: 10px;
+  width: 100%;
+  word-break: break-all;
+}
+.checked {
+  border: 1px solid rgb(88, 148, 242);
+  color: rgb(88, 148, 242);
+  text-decoration: line-through;
+}
+.cross-svg {
+  transition: all 0.2s;
+}
+.cross-svg:hover {
+  cursor: pointer;
+  transform: rotate(180deg);
+}

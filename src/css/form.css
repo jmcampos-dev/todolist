@@ -1,0 +1,32 @@
+.form-container h2 {
+  font-size: 40px;
+  margin: 0;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-container button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.button-container svg {
+  width: 50px;
+}
+.form-container input {
+  width: 100%;
+  background-color: transparent;
+  outline: none;
+  border: 1px solid black;
+  height: 50px;
+  font-size: 20px;
+  padding-left: 15px;
+}
+.add-svg {
+  transition: all 0.3s;
+}
+.add-svg:hover {
+  transform: rotate(180deg);
+}
