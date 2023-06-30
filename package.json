@@ -1,6 +1,6 @@
 {
   "name": "todolist",
-  "homepage": "jmcampos.dev/todolist",
+  "homepage": "https://jmcampos.dev/todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
