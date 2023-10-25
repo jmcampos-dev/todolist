@@ -10,7 +10,7 @@ Application developed with React to practice useState, arrays, saving data in th
 6.- Responsive Design
 7.- Motion Effects
 
-## <a href="https://todolist.jmcampos.tk" target="_blanck">Take a Look</a>
+## <a href="https://jmcampos.dev/todolist" target="_blanck">Take a Look</a>
 ![image](https://user-images.githubusercontent.com/108521775/220890308-6aa7b808-ce84-4389-b23a-1926ce4799e2.png)
 
 
